@@ -13,7 +13,7 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 * 🌍 I'm based in Poznan
 * 🖥️ See my [LinkedIn](https://github.com/Shipssv83) profile 
 * 👾 Chat with IT pros on [Discord](https://discord.com/shipssv_19055)
-* 📧 Reach me at ships@ukr.net
+* 📧 Reach me at admin@1it.pro
 * 🧠 I'm learning DevOps Practices
 
 <center>
