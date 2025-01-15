@@ -18,8 +18,8 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 <style>
 .logo {
-    height: 4px; /* Установите желаемую высоту */
-    width: 4px; /* Ширина изменится пропорционально */
+    height: 32"; /* Установите желаемую высоту */
+    width: 32"; /* Ширина изменится пропорционально */
 }
 </style>
 <a href="https://1it.pro/" style="padding:4px;">
