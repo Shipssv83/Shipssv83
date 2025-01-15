@@ -21,7 +21,7 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
     <a href="#contact" style="padding:10px;">
         <img height="40px" width="120px" src="?style=for-the-badge&logoColor=white">
     </a>
-    <a href="keerti_resume.pdf" style="padding:5px;">
+    <a href="serhii_shypylov_resume.pdf" style="padding:5px;">
         <img height="40px" width="100px" src="?style=for-the-badge&logoColor=white">
     </a>
 </div>
