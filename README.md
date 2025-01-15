@@ -18,7 +18,7 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 
 <center>
     <div align="center" style="margin-top:20px;">
-    <a href="#contact" style="padding:10px;">
+    <a href="https://1it.pro/" style="padding:10px;">
         <img height="40px" width="120px" src="?style=for-the-badge&logoColor=white">
     </a>
     <a href="serhii_shypylov_resume.pdf" style="padding:5px;">
