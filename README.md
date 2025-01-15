@@ -16,21 +16,17 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 * 📧 Reach me at admin@1it.pro
 * 🧠 I'm learning DevOps Practices
 
-<style>
-.logo {
-    height: 32"; /* Установите желаемую высоту */
-    width: 32"; /* Ширина изменится пропорционально */
-}
-</style>
-<a href="https://1it.pro/" style="padding:4px;">
-    <img src="path_to_logo1.png" alt="Logo 1" class="logo">
-</a>
-<a href="serhii_shypylov_resume.pdf" style="padding:4px;">
-    <img src="path_to_logo2.png" alt="Logo 2" class="logo">
-</a>
+<center>
+    <div align="center" style="margin-top:20px;">
+        <a href="https://1it.pro/" style="padding:10px;">
+            <img height="32px" width="32px" src="path_to_logo1.png" alt="Logo 1">
+        </a>
+        <a href="serhii_shypylov_resume.pdf" style="padding:5px;">
+            <img height="32px" width="32px" src="path_to_logo2.png" alt="Logo 2">
+        </a>
+    </div>
+</center>
 
- 
-</div>
 
 ### Socials
 
