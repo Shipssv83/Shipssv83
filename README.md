@@ -16,18 +16,6 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 * 📧 Reach me at admin@1it.pro
 * 🧠 I'm learning DevOps Practices
 
-<center>
-    <div align="center" style="margin-top:20px;">
-        <a href="https://1it.pro/" style="padding:10px;">
-            <img height="32px" width="32px" src="path_to_logo1.png" alt="Logo 1">
-        </a>
-        <a href="serhii_shypylov_resume.pdf" style="padding:5px;">
-            <img height="32px" width="32px" src="path_to_logo2.png" alt="Logo 2">
-        </a>
-    </div>
-</center>
-
-
 ### Socials
 
 <p align="left">
@@ -48,6 +36,9 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
   </a>
   <a href="https://1it.pro/">
     <img src="https://img.icons8.com/ios-glyphs/30/ffffff/domain.png" alt="Website" width="30" height="30" />
+  </a>
+  <a href="https://github.com/Shipssv83/Shipssv83/blob/main/serhii_shypylov_resume.pdf">
+    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/resume.png" alt="Resume" width="30" height="30" />
   </a>
 </p>
 
