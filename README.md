@@ -37,7 +37,13 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
   <a href="mailto:admin@1it.pro">
     <img src="https://img.icons8.com/ios-glyphs/30/ffffff/new-post.png" alt="Mail" width="30" height="30" />
   </a>
-  <a href="https://1it.pro/">
+  <a href="https://blog.1it.pro/">
+    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/domain.png" alt="Website" width="30" height="30" />
+  </a>
+  <a href="https://services.1it.pro/">
+    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/domain.png" alt="Website" width="30" height="30" />
+  </a>
+  <a href="https://go.1it.pro/">
     <img src="https://img.icons8.com/ios-glyphs/30/ffffff/domain.png" alt="Website" width="30" height="30" />
   </a>
   <a href="https://github.com/Shipssv83/Shipssv83/blob/main/Serhii Shypylov CV.pdf">
