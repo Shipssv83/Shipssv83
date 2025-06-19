@@ -70,7 +70,7 @@
   <a href="https://discord.com/invite/6z5EyagDyW?ref=1it.pro">
     <img src="https://img.icons8.com/ios-glyphs/30/ffffff/discord.png" alt="Discord" width="30" height="30" />
   </a>
-  <a href="mailto:admin@mail.1it.pro">
+  <a href="mailto:serhii@1it.pro">
     <img src="https://img.icons8.com/ios-glyphs/30/ffffff/new-post.png" alt="Mail" width="30" height="30" />
   </a>
   <a href="https://blog.1it.pro/">
