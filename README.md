@@ -79,6 +79,9 @@
   <a href="https://1it.pro/">
     <img src="https://img.icons8.com/ios-glyphs/30/ffffff/domain.png" alt="Services" width="30" height="30" />
   </a>
+  <a href="https://serhii.shypylov.1it.pro/">
+    <img src="https://img.icons8.com/ios-glyphs/30/ffffff/resume.png" alt="Resume" width="30" height="30" />
+  </a>
   <a href="https://github.com/Shipssv83/Shipssv83/blob/main/Serhii%20Shypylov%20CV.pdf">
     <img src="https://img.icons8.com/ios-glyphs/30/ffffff/resume.png" alt="Resume" width="30" height="30" />
   </a>
