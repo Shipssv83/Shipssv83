@@ -73,4 +73,4 @@ Background in Linux administration and DevOps.
 - ✉️ Email: [serhii@1it.pro](mailto:serhii@1it.pro)
 - 📝 Blog: [1it.pro/blog](https://1it.pro/blog/)
 - 🌐 Website: [1it.pro](https://1it.pro/)
-- 📄 Resume: [serhii.shypylov.1it.pro](https://serhii.shypylov.1it.pro/)
+- 📄 Resume: [SERHII_SHYPYLOV_CV.pdf](https://github.com/Shipssv83/Shipssv83/blob/main/SERHII_SHYPYLOV_CV.pdf)
