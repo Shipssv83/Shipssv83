@@ -68,6 +68,6 @@ Background in Linux administration and DevOps.
 
 - 💼 LinkedIn: [linkedin.com/in/1it-pro](https://www.linkedin.com/in/1it-pro)
 - ✉️ Email: [serhii@1it.pro](mailto:serhii@1it.pro)
-- 📝 Blog: [blog.1it.pro](https://blog.1it.pro/)
+- 📝 Blog: [[1it.pro/blog](https://1it.pro/blog/)
 - 🌐 Website: [1it.pro](https://1it.pro/)
 - 📄 Resume: [serhii.shypylov.1it.pro](https://serhii.shypylov.1it.pro/)
